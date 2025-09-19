@@ -1,2 +1,2 @@
 # image-host
-image hosting
+To host things online for free ;OO.
